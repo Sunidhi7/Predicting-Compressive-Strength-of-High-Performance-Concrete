@@ -1,5 +1,5 @@
 ###########################################################################
-#Gradient boosting
+#Gradient Boosting
 ###########################################################################
 old <- Sys.time() # starting time
 concrete <- read.table("Concrete_Data.csv", header=TRUE, sep=",", na.strings=" ")
